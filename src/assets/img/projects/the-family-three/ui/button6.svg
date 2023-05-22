@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="113" viewBox="0 0 632 113">
+  <g id="button6" transform="translate(-12722 -9587)">
+    <g id="Сгруппировать_60" data-name="Сгруппировать 60" transform="translate(12605 8784)">
+      <rect id="Прямоугольник_67" data-name="Прямоугольник 67" width="632" height="113" transform="translate(117 803)" fill="#fff"/>
+    </g>
+    <path id="Контур_1158" data-name="Контур 1158" d="M217.767,858.526l-3.374-3.007-13.446-11.99a2.2,2.2,0,0,0-2.865,0l-13.466,11.983-3.383,3.014a.714.714,0,0,0,.021,1.074.947.947,0,0,0,1.206.019l1.9-1.694V874.2a1.925,1.925,0,0,0,2.026,1.8h7.9a1.925,1.925,0,0,0,2.026-1.8V863.883a.274.274,0,0,1,.289-.258h5.788a.274.274,0,0,1,.289.258V874.2a1.925,1.925,0,0,0,2.026,1.8h7.912a2.156,2.156,0,0,0,1.433-.529,1.709,1.709,0,0,0,.593-1.276V857.933l1.893,1.686a.947.947,0,0,0,1.206-.019A.714.714,0,0,0,217.767,858.526Z" transform="translate(12605 8784)" fill="#39cfab" stroke="#39cfab" stroke-width="0.6"/>
+    <rect id="Прямоугольник_68" data-name="Прямоугольник 68" width="30.541" height="30.235" rx="2" transform="translate(12946.473 9630.063)" fill="none" stroke="#c6cdcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Контур_1159" data-name="Контур 1159" d="M363.53,842.7v6.719" transform="translate(12605 8784)" fill="none" stroke="#c6cdcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Контур_1160" data-name="Контур 1160" d="M349.956,842.7v6.719" transform="translate(12605 8784)" fill="none" stroke="#c6cdcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Контур_1161" data-name="Контур 1161" d="M341.473,856.141h30.541" transform="translate(12605 8784)" fill="none" stroke="#c6cdcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Контур_1162" data-name="Контур 1162" d="M531,859.5h-7L518.75,876l-10.5-33L503,859.5h-7" transform="translate(12605 8784)" fill="none" stroke="#c6cdcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Контур_1163" data-name="Контур 1163" d="M685.054,876.3v-3.732a7.551,7.551,0,0,0-7.635-7.466h-15.27a7.552,7.552,0,0,0-7.636,7.466V876.3" transform="translate(12605 8784)" fill="none" stroke="#c6cdcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <ellipse id="Эллипс_3" data-name="Эллипс 3" cx="7.635" cy="7.465" rx="7.635" ry="7.465" transform="translate(13267.148 9626.702)" fill="none" stroke="#c6cdcb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  </g>
+</svg>

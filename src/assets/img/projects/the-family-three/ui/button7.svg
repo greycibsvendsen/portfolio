@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="150" viewBox="0 0 136 150">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.199" y1="1" x2="0.926" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.505" stop-color="#39cfab"/>
+      <stop offset="1" stop-color="#ffc817"/>
+    </linearGradient>
+  </defs>
+  <g id="button7" transform="translate(-13377 -9555)">
+    <rect id="Прямоугольник_88" data-name="Прямоугольник 88" width="136" height="150" rx="16" transform="translate(13377 9555)" fill="#fff"/>
+    <rect id="Прямоугольник_89" data-name="Прямоугольник 89" width="135" height="149" rx="15.5" transform="translate(13377.5 9555.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    <rect id="Прямоугольник_90" data-name="Прямоугольник 90" width="112" height="6" rx="3" transform="translate(13389 9687)" fill="#e8ebf5"/>
+    <rect id="Прямоугольник_91" data-name="Прямоугольник 91" width="88" height="6" rx="3" transform="translate(13389 9687)" fill="url(#linear-gradient)"/>
+    <path id="Прямоугольник_93" data-name="Прямоугольник 93" d="M16,0H120a16,16,0,0,1,16,16V92a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V16A16,16,0,0,1,16,0Z" transform="translate(13377 9555)" fill="#d9d9d9"/>
+  </g>
+</svg>
