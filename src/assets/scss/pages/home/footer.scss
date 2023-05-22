@@ -1,0 +1,293 @@
+/* Home page - footer section
+   ========================================================================== */
+
+/**
+ * Footer
+ */
+.home-footer{
+    padding-bottom: 85px;
+    @media only screen and (max-width: 746px) {
+        padding-bottom: 60px;
+    }
+}
+
+
+/**
+ * Footer header - laptop
+ */
+.home-footer__lg-header{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 90%;
+    margin: 0 auto;
+    @media only screen and (max-width: 1180px) {
+        width: 95%;
+    }
+    @media only screen and (max-width: 880px) {
+        width: 100%;
+    }
+    @media only screen and (max-width: 746px) {
+        display: none;
+    }
+
+    // links wrapper
+    .home-footer__header-links-wrapper{
+        transform: translateX(-12px);
+        @media only screen and (max-width: 1220px) {
+            transform: translateX(1px);
+        }
+        @media only screen and (max-width: 1080px) {
+            transform: translateX(-7px);
+        }
+        @media only screen and (max-width: 960px) {
+            transform: translateX(6.5px);
+        }
+        @media only screen and (max-width: 768px) {
+            transform: translateX(-8px);
+        }
+    }
+}
+.home-footer__lg-header-logo-wrapper{
+    text-align: center;
+}
+.home-footer__lg-header-logo-text{
+    color: $whiteColor;
+    font-family: $cardoFont;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    @media only screen and (max-width: 1220px) {
+        font-size: 15px;
+        letter-spacing: 4.5px;
+    }
+    @media only screen and (max-width: 960px) {
+        font-size: 14px;
+        letter-spacing: 3.5px;
+    }
+    @media only screen and (max-width: 768px) {
+        font-size: 13px;
+    }
+    @media only screen and (max-width: 580px) {
+        font-size: 12px;
+        letter-spacing: 3px;
+    }
+}
+.home-footer__lg-header-logo-img{
+    width: 73px;
+    margin-bottom: 25px;
+    user-select: none;
+    @media only screen and (max-width: 1220px) {
+        width: 65px;
+        margin-bottom: 20px;
+    }
+}
+
+
+/**
+ * Footer header - mobile
+ */
+.home-footer__sm-header{
+    display: none;
+    @media only screen and (max-width: 746px) {
+        display: block;
+    }
+}
+.home-footer__sm-header-line{
+    display: flex;
+    align-items: center;
+    &:nth-child(1){
+        justify-content: space-between;
+    }
+    &:nth-child(2){
+        margin-top: 25px;
+        justify-content: center;
+    }
+}
+.home-footer__sm-header-logo-text{
+    font-family: $playfairDisplayFont;
+    font-weight: 700;
+    font-size: 18px;
+    color: $whiteColor;
+}
+
+
+/**
+ * Footer header - global elements
+ */
+.home-footer__header-links-wrapper{
+    display: flex;
+    align-items: center;
+}
+.home-footer__header-link{
+    margin-right: 55px;
+    font-family: $poppinsFont;
+    font-weight: 400;
+    font-size: 16px;
+    color: $whiteColor;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: .5px;
+    transition: all .35s ease;
+    &:last-of-type{
+        margin-right: 0;
+    }
+    @media only screen and (max-width: 1220px) {
+        margin-right: 45px;
+        font-size: 15px;
+    }
+    @media only screen and (max-width: 960px) {
+        margin-right: 40px;
+        font-size: 14px;
+    }
+    @media only screen and (max-width: 768px) {
+        margin-right: 30px;
+    }
+    &.active{
+        font-weight: 600;
+        color: $pinkColor3;
+    }
+    &:hover{
+        color: $pinkColor3;
+    }
+}
+
+
+/**
+ * Footer line
+ */
+.home-footer__line{
+    width: 100%;
+    height: 1px;
+    margin: 35px 0 45px;
+    border-radius: 1px;
+    background: $whiteColor;
+    @media only screen and (max-width: 746px) {
+        margin: 20px 0 30px;
+        background: $pinkColor1;
+    }
+    @media only screen and (max-width: 560px) {
+        margin: 20px 0 20px;
+    }
+}
+
+
+/**
+ * Footer of the footer
+ */
+.home-footer__footer{
+    position: relative;
+    @media only screen and (max-width: 560px) {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
+/**
+ * Footer copyright
+ */
+.home-footer__copyright{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    font-family: $poppinsFont;
+    font-size: 15px;
+    color: $whiteColor;
+    letter-spacing: .2px;
+    text-align: center;
+    @media only screen and (max-width: 1220px) {
+        font-size: 14px;
+    }
+    @media only screen and (max-width: 960px) {
+        font-size: 13px;
+    }
+    @media only screen and (max-width: 768px) {
+        text-align: left;
+    }
+    @media only screen and (max-width: 560px) {
+        position: initial;
+        order: 2;
+        margin-top: 25px;
+        text-align: center;
+    }
+}
+
+
+/**
+ * Footer social icons
+ */
+.home-footer__icons{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    @media only screen and (max-width: 1220px) {
+        height: 36px;
+    }
+    @media only screen and (max-width: 960px) {
+        height: 33px;
+    }
+    @media only screen and (max-width: 560px) {
+        position: initial;
+        order: 1;
+        justify-content: center;
+    }
+}
+.home-footer__icon-link{
+    display: flex;
+    &:nth-child(2){
+        margin: 0 43px;
+        @media only screen and (max-width: 960px) {
+            margin: 0 30px;
+        }
+        @media only screen and (max-width: 768px) {
+            margin: 0 22px;
+        }
+    }
+    &:hover svg path{
+        fill: $pinkColor1;
+    }
+    svg{
+        // LinkedIn
+        &:nth-child(1){
+            width: 27px;
+            height: 26px;
+            @media only screen and (max-width: 960px) {
+                width: 24px;
+                height: 23px;  
+            }
+        }
+
+        // Instagram
+        &:nth-child(2){
+            width: 29px;
+            height: 30px;
+            @media only screen and (max-width: 960px) {
+                width: 26px;
+                height: 27px;
+            }
+        }
+
+        // Behance
+        &:nth-child(3){
+            width: 38px;
+            height: 24px;
+            @media only screen and (max-width: 960px) {
+                width: 35px;
+                height: 21px;
+            }
+        }
+    }
+    svg path{
+        transition: all .35s ease;
+        fill: $whiteColor;
+    }
+}

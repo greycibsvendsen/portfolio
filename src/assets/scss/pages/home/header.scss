@@ -1,0 +1,24 @@
+/* Home page - static header section
+   ========================================================================== */
+
+/**
+ * Header
+ */
+.header_static.header_home-page{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+
+    // overlay
+    .header__menu-overlay{
+        background: transparent;
+    }
+
+    // menu links
+    .header__menu{
+        transform: translateX(0) translateY(6px);
+        opacity: 0;
+    }
+}

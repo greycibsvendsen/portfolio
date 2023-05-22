@@ -1,0 +1,62 @@
+/* Buttons
+   ========================================================================== */
+
+/**
+ * Button
+ */
+.btn{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-family: $nunitoSansFont;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px 60px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all .45s ease;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    @media only screen and (max-width: 1080px) {
+        padding: 18px 52px;
+    }
+    @media only screen and (max-width: 768px){
+        font-size: 12px;
+        padding: 14px 40px;
+    }
+    @media only screen and (max-width: 580px){
+        font-size: 10px;
+        padding: 13px 36px;
+    }
+}
+
+
+/**
+ * Border Button
+ */
+.btn.btn_border{
+    border: 2px solid $pinkColor1;
+    color: $pinkColor1;
+    &:hover{
+        border: 2px solid $blackColor;
+        color: $blackColor;
+        background: $pinkColor1;
+    }
+}
+
+
+/**
+ * Background Button
+ */
+.btn.btn_bg{
+    border: 2px solid transparent;
+    color: $pinkColor1;
+    background: $greenColor;
+    &:hover{
+        border: 2px solid $greenColor;
+        color: $greenColor;
+        background: $pinkColor1;
+    }
+}

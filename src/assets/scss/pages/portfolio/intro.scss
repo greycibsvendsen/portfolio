@@ -1,0 +1,58 @@
+/* Portfolio page - intro section
+   ========================================================================== */
+
+/**
+ * Intro
+ */
+.portfolio-intro{
+    margin-top: 65px;
+}
+
+
+/**
+ * Intro title
+ */
+.portfolio-intro__title{
+    position: relative;
+    color: $whiteColor;
+}
+.portfolio-intro__title-bg-line{
+    bottom: 7.5px;
+    left: 175px;
+    width: 165px;
+    @media only screen and (max-width: 1080px) {
+        bottom: 5.5px;
+        left: 130px;
+        width: 130px;
+    }
+    @media only screen and (max-width: 820px){
+        bottom: 4.5px;
+        left: 110px;
+        width: 105px;
+    }
+    @media only screen and (max-width: 768px){
+        left: 95px;
+        width: 95px;
+    }
+    @media only screen and (max-width: 580px){
+        height: 21px;
+        bottom: -5px;
+        left: 46px;
+        width: 100px;
+    }
+}
+
+
+/**
+ * Intro text
+ */
+.portfolio-intro__text{
+    margin: 120px 0 95px;
+    color: $whiteColor;
+    @media only screen and (max-width: 1080px){
+        margin: 95px 0 75px;
+    }
+    @media only screen and (max-width: 820px){
+        margin: 55px 0 55px;
+    }
+}

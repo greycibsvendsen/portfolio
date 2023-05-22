@@ -1,0 +1,35 @@
+/* Content selection styles
+   ========================================================================== */
+
+/**
+ * Selection with pink background
+ */
+.pink-bg-selection{
+    &::-moz-selection{
+        background-color: $pinkColor3;
+        color: $greenColor;
+        text-shadow: none;
+    }
+    &::selection{
+        background-color: $pinkColor3;
+        color: $greenColor;
+        text-shadow: none;
+    }
+}
+
+
+/**
+ * Selection with green background
+ */
+.green-bg-selection{
+    &::-moz-selection{
+        background-color: $greenColor;
+        color: $pinkColor3;
+        text-shadow: none;
+    }
+    &::selection{
+        background-color: $greenColor;
+        color: $pinkColor3;
+        text-shadow: none;
+    }
+}

@@ -1,0 +1,57 @@
+// utils
+@import "utils/libs";
+@import "utils/mixins";
+@import "utils/vars";
+@import "utils/fonts";
+@import "utils/normalize";
+
+
+
+// libs
+
+
+
+// components
+@import "./components/grid.scss";
+@import "./components/mob-menu.scss";
+@import "./components/preloader.scss";
+@import "./components/header.scss";
+@import "./components/buttons.scss";
+@import "./components/selection.scss";
+@import "./components/typography.scss";
+
+
+// home page
+@import "./pages/home/header.scss";
+@import "./pages/home/hero.scss";
+@import "./pages/home/about.scss"; // "about" section in version 1 of the home page
+@import "./pages/home/works.scss"; // "works" section in version 1 of the home page
+@import "./pages/home/portfolio.scss"; // "portfolio" section in version 1 of the home page
+@import "./pages/home/quote.scss"; // "quote" section in version 1 of the home page
+@import "./pages/home/contacts.scss";
+@import "./pages/home/footer.scss";
+
+// about page
+@import "./pages/about/hero.scss";
+
+// about page
+@import "./pages/contacts/intro.scss";
+@import "./pages/contacts/body.scss";
+
+// portfolio page
+@import "./pages/portfolio/intro.scss";
+@import "./pages/portfolio/cases.scss";
+
+// project overview pages
+@import "./pages/projects/global.scss";
+@import "./pages/projects/girls-who-code.scss";
+@import "./pages/projects/restaurant-ettan.scss";
+@import "./pages/projects/didot-timeline.scss";
+@import "./pages/projects/lego.scss";
+@import "./pages/projects/the-family-three.scss";
+@import "./pages/projects/drip-drip-coffee-app.scss";
+
+// hide preloader
+.preloader{
+    display: none !important;
+}
