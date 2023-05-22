@@ -1,0 +1,83 @@
+{
+  "name": "webpacktemplate",
+  "version": "1.0.0",
+  "description": "My template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open --config ./build/webpack.dev.conf.js",
+    "build": "webpack --config ./build/webpack.build.conf.js"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 3 version"
+  ],
+  "author": "https://github.com/vedees",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedees/webpack-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vedees/webpack-template/issues"
+  },
+  "keywords": [
+    "webpack",
+    "webpack4",
+    "merge",
+    "bable",
+    "bable7",
+    "scss",
+    "vue"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "active-menu-link": "^1.1.8",
+    "animejs": "^3.2.1",
+    "aos": "^3.0.0-beta.6",
+    "apexcharts": "^3.37.1",
+    "bootstrap": "^4.4.1",
+    "dropzone": "^5.9.2",
+    "granim": "^2.0.0",
+    "gsap": "^3.9.1",
+    "horizontal-scroll": "^1.1.0",
+    "iphone-inline-video": "^2.2.2",
+    "jquery": "^3.4.1",
+    "jquery.marquee": "^1.6.0",
+    "lightslider": "^1.1.6",
+    "locomotive-scroll": "^4.1.1",
+    "object-fit-videos": "^1.0.4",
+    "owl.carousel": "^2.3.4",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^8.1.5",
+    "three": "^0.129.0",
+    "tilt.js": "^1.2.1",
+    "typed.js": "^2.0.16",
+    "validate-js": "^2.0.1",
+    "vue": "^2.6.11",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "autoprefixer": "^9.7.3",
+    "babel-loader": "^8.0.6",
+    "copy-webpack-plugin": "^5.1.1",
+    "css-loader": "^3.4.0",
+    "cssnano": "^4.1.10",
+    "file-loader": "^5.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "node-sass": "^4.14.1",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.1.2",
+    "video.js": "^7.8.3",
+    "vue-loader": "^15.8.3",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1",
+    "webpack-merge": "^4.2.2"
+  }
+}
