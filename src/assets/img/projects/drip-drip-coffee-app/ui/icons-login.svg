@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="183" viewBox="0 0 320 183">
+  <g id="Log_In" transform="translate(0 -9)">
+    <g id="IconLeft" transform="translate(0 152)">
+      <g id="Background">
+        <g id="Huge-Radius">
+          <path id="Base_Huge-Radius" d="M20,0H300a19.994,19.994,0,0,1,20,20h0a19.994,19.994,0,0,1-20,20H20A19.994,19.994,0,0,1,0,20H0A19.994,19.994,0,0,1,20,0Z" fill="#99602a"/>
+        </g>
+      </g>
+      <g id="Huge-radius-2">
+        <path id="Rectangle" d="M20,0H300a19.994,19.994,0,0,1,20,20h0a19.994,19.994,0,0,1-20,20H20A19.994,19.994,0,0,1,0,20H0A19.994,19.994,0,0,1,20,0Z" fill="none"/>
+      </g>
+      <text id="Continue_with_Apple" data-name="Continue with Apple" transform="translate(41.908 26)" fill="#f9efe7" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Continue with Apple</tspan></text>
+      <g id="Apple" transform="translate(12 11)">
+        <path id="apple-2" d="M5.3,19.5C2.4,19.49,0,13.56,0,10.54,0,5.61,3.7,4.53,5.12,4.53a5.826,5.826,0,0,1,1.93.48,4.633,4.633,0,0,0,1.1.32,3.568,3.568,0,0,0,.8-.26,6.358,6.358,0,0,1,2.39-.58h.01a4.879,4.879,0,0,1,4.09,2.07l.3.45-.44.32a3.593,3.593,0,0,0-1.73,2.98,3.363,3.363,0,0,0,1.88,3.11c.27.16.55.33.55.69,0,.24-1.9,5.35-4.66,5.35a3.7,3.7,0,0,1-1.57-.38,3.246,3.246,0,0,0-1.4-.34,3.587,3.587,0,0,0-1.11.3,5.335,5.335,0,0,1-1.92.45ZM8,4.28A4.133,4.133,0,0,1,11.63,0c.07,2.52-1.67,4.28-3.47,4.28Z" fill="#483a3a"/>
+      </g>
+    </g>
+    <g id="IconLeft-2" transform="translate(0 100)">
+      <g id="Background-2">
+        <g id="Huge-Radius-3">
+          <path id="Base_Huge-Radius-2" d="M20,0H300a19.994,19.994,0,0,1,20,20h0a19.994,19.994,0,0,1-20,20H20A19.994,19.994,0,0,1,0,20H0A19.994,19.994,0,0,1,20,0Z" fill="#d3c0af"/>
+        </g>
+      </g>
+      <g id="Huge-radius-4">
+        <path id="Rectangle-2" d="M20,0H300a19.994,19.994,0,0,1,20,20h0a19.994,19.994,0,0,1-20,20H20A19.994,19.994,0,0,1,0,20H0A19.994,19.994,0,0,1,20,0Z" fill="#99602a"/>
+      </g>
+      <text id="Continue_with_Facebook" data-name="Continue with Facebook" transform="translate(41.908 26.126)" fill="#ebe0d5" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Continue with Facebook</tspan></text>
+      <g id="Facebook" transform="translate(12 11)">
+        <g id="facebook-2">
+          <path id="Path" d="M18.9,0H1.1A1.1,1.1,0,0,0,0,1.1H0V18.9A1.1,1.1,0,0,0,1.1,20H18.9A1.1,1.1,0,0,0,20,18.9h0V1.1A1.1,1.1,0,0,0,18.9,0Z" fill="#4267b2"/>
+          <path id="Path-2" d="M13.85,20V12.26h2.66l.4-3.03H13.85V7.3c0-.88.25-1.47,1.53-1.47H17V3.13A21.09,21.09,0,0,0,14.62,3a3.683,3.683,0,0,0-3.97,3.36,3.315,3.315,0,0,0,0,.63V9.22H8v3.03h2.65V20Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="IconLeft-3" transform="translate(0 48)">
+      <g id="Huge-radius-5">
+        <path id="Rectangle-3" d="M20,0H300a19.994,19.994,0,0,1,20,20h0a19.994,19.994,0,0,1-20,20H20A19.994,19.994,0,0,1,0,20H0A19.994,19.994,0,0,1,20,0Z" fill="#99602a"/>
+      </g>
+      <text id="Continue_with_Google" data-name="Continue with Google" transform="translate(41.39 25.643)" fill="#f9efe7" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Continue with Google</tspan></text>
+      <g id="Google" transform="translate(12 11)">
+        <g id="Google-2">
+          <path id="Path-3" d="M4.46,12l-.7,2.58-2.56.06a9.861,9.861,0,0,1-.07-9.29h0l2.28.41L4.41,8a5.908,5.908,0,0,0,.05,4Z" fill="#fbbb00"/>
+          <path id="Path-4" d="M19.83,8.21A10.661,10.661,0,0,1,20,10.08a9.668,9.668,0,0,1-.22,2.08,9.9,9.9,0,0,1-3.54,5.7h0l-2.86-.15-.4-2.52a5.941,5.941,0,0,0,2.57-3.04H10.18V8.21Z" fill="#518ef8"/>
+          <path id="Path-5" d="M16.25,17.81h0a9.969,9.969,0,0,1-15-3.03l3.23-2.63a5.922,5.922,0,0,0,8.53,3.02Z" fill="#28b446"/>
+          <path id="Path-6" d="M16.43,2.29,13.21,4.93A5.906,5.906,0,0,0,5.07,6.82a6.115,6.115,0,0,0-.58,1.21L1.25,5.38h0A9.933,9.933,0,0,1,14.64,1.11,10.071,10.071,0,0,1,16.43,2.29Z" fill="#f14336"/>
+        </g>
+      </g>
+    </g>
+    <text id="Log_In-2" data-name="Log In" transform="translate(131.31 24)" fill="#f8ece3" font-size="20" font-family="Helvetica"><tspan x="0" y="0">Log In</tspan></text>
+  </g>
+</svg>
